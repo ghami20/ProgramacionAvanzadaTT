@@ -7,6 +7,10 @@ public class Main {
 			System.out.println("Hola primera prueba");
 			
 			System.out.println("Cree un cambio");
+			
+			if (0==0) {
+				
+			}
 	}
 
 }
